@@ -1,1 +1,1 @@
-from package.module import *
+from main import *
