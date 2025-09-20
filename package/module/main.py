@@ -1,5 +1,5 @@
-from package.module.salary import calculate_salary
-from package.module.people import get_employees
+from salary import calculate_salary
+from people import get_employees
 
 import datetime
 
